@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "98574501320",
+    "firebase_url": "https://bookmanagement-c7a0e-default-rtdb.firebaseio.com",
+    "project_id": "bookmanagement-c7a0e",
+    "storage_bucket": "bookmanagement-c7a0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98574501320:android:b950323458de8a733becfd",
+        "android_client_info": {
+          "package_name": "com.example.bookmanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3XG3xySOWdg_CMvrzcWALZZsq9ZpaR3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
