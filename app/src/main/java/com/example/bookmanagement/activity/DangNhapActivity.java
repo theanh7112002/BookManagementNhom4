@@ -101,7 +101,7 @@ public class DangNhapActivity extends AppCompatActivity {
                     public void onFailure(Exception e) {
                         //login failed
                         progressDialog.dismiss();
-                        Toast.makeText(DangNhapActivity.this, ""+e.getMessage(), Toast.LENGTH_SHORT).show();
+                        Toast.makeText(DangNhapActivity.this, "Tài khoản hoặc mật khẩu không chính xác!", Toast.LENGTH_SHORT).show();
                     }
                 });
     }
